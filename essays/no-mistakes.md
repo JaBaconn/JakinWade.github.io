@@ -9,15 +9,15 @@ labels:
   - Reflection
 ---
 
-##A Newbie's View On Java Script
+## A Newbie's View On Java Script
 
 As a newbie that is just starting to learn Java Script, I find it pretty interesting. This is my first time learning a coding language that is not object oriented (like C/C++, Java). The way JavaScript uses functions is very flexible since it uses functions like a variable, e.g - a string. It is able to assign a function to variables, pass it as arguments to other functions, storing it in data structures, & returning it from other functions. While I find these advantages very helpful, I feel Java Script is a bit hard to understand for complete beginners.
 
-##A Newbie's View on WODs
+## A Newbie's View on WODs
 
 I find the WODs we do quite helpful. Although a bit stressful, I believe the “all or nothing” grading format of these WODs add a weight and urgency to them. As my mother always told me, “There are times in the real world where you just cannot afford to make any mistakes.” I feel like these WODs simulate a similar situation where a simple mistake such as missing a deadline by a few hours could have massive setbacks. I believe this is essential training for us students.
 
-##A Newbie's Experience
+## A Newbie's Experience
 
 Back in 2015, when I just started middle school, I signed up for the school orchestra as a cellist. There was an annual event, around April called the "Parade of Orchestras." This was an event where middle schools and high schools from all across Oahu would perform. Although this was a non-competitive event, each school would get their performance graded by a few judges. 
 
