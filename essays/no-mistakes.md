@@ -11,7 +11,7 @@ labels:
 
 ## A Newbie's View On Java Script
 
-As a newbie to Java Script, I find the experience pretty interesting. This is my first time learning a coding language that is not object oriented (like C/C++, Java). The way JavaScript uses functions is very flexible since it uses functions like a variable, e.g - a string. Its ability to assign a function to variables, pass it as arguments to other functions, store it in data structures, & return it from other functions; I find these advantages very helpful. However Java Script a bit hard to understand for complete beginners.
+As a newbie to Java Script, I find the experience pretty interesting. This is my first time learning a coding language that is not object oriented (like C/C++, Java). The way JavaScript uses functions is very flexible since it uses functions like a variable, e.g - a string. Its ability to assign a function to variables, pass it as arguments to other functions, store it in data structures, & return it from other functions; I find these advantages very helpful. However Java Script may be a bit hard to understand for complete beginners.
 
 ## A Newbie's View on WODs
 
