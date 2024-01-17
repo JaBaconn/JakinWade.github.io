@@ -19,9 +19,9 @@ I find the WODs quite helpful. Although a bit stressful, I believe the “all or
 
 ## A Newbie's Experience
 
-Back in 2015, when I just started middle school, I signed up for the school orchestra as a cellist. There was an annual event, around April called the "Parade of Orchestras." This was an event where middle schools and high schools from all across Oahu would perform. Although this was a non-competitive event, each school would get their performance graded by a few judges. 
+Back in 2015, when I just started middle school, I signed up for the school orchestra as a cellist. There was an annual event, around April called the "Parade of Orchestras." This was an event where middle schools and high schools from all across Oahu would perform their personal selection of songs. Although this was a non-competitive event, each school would get their performance graded by a few judges. 
 
-Fast forward to April of 2016, I find myself being the only cellist able to perform. This is only my first year learning cello!! Now I have to solo in front of 200 people?!? "Sometimes, you just cannot make mistakes." My mother's words echoed throughout my head as I prepared for my first big performance ever. Cold sweat starts to form, my hands are freezing but at the same time, sweaty. Feelings I have never felt before running through my body as I prepare to play my first note.
+Fast forward to April of 2016, I found myself being the sole cellist in my school orchestra able to perform. This was my very first year learning cello!! Now I have to solo in front of 200 people?!? "Sometimes, you just cannot make mistakes." My mother's words echoed throughout my head as I prepared for my first big performance ever. Cold sweat starts to form, my hands were freezing but at the same time, sweaty. Feelings I have never felt before running through my body as I prepare to play my first note.
 
 Thankfully, I managed to compose my self and get in the grove. The performace went without a hitch, even scoring us an "Excellent" grading, only second to the highest grading: "Superb".
 
