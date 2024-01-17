@@ -15,7 +15,7 @@ As a newbie to Java Script, I find the experience pretty interesting. This is my
 
 ## A Newbie's View on WODs
 
-I find the WODs quite helpful. Although a bit stressful, I believe the “all or nothing” grading format of these WODs add a weight and urgency to them. As my mother always told me, “There are times in the real world where you just cannot afford to make any mistakes.” I feel like these WODs simulate a similar situation where a simple mistake such as missing a deadline by a few hours could have massive setbacks. I believe this is essential training for us students.
+I find the WODs quite helpful. Although a bit stressful, I believe the “all or nothing” grading format of these WODs add a weight and urgency to them. As my mother always told me, “There are times in the real world where you just cannot afford to make any mistakes.” I feel like these WODs simulate a similar situation where a simple mistake such as missing a deadline by a few hours could have massive setbacks. I believe this is essential training for students.
 
 ## A Newbie's Experience
 
