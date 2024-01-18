@@ -11,7 +11,7 @@ labels:
 summary: "An Invitation to perform at Carnegie Hall that could have happened."
 ---
 
-<img class="img-fluid" src="../img/img/orchestra-pic.jpg">
+<img class="img-fluid" src="../img/orchestra-pic.jpg">
 
 "So class, I have some news ... we unfortunately ... were not one of the four schools chosen to perform at Carnegie Hall ... we were INVITED to play at the Carnegie Hall!!!" my teacher excitedly exclaimed.
 
