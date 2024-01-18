@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/orchestra-square.png
 title: "A Bittersweet Invitation"
 date: 2020
 published: true
