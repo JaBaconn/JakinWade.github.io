@@ -2,19 +2,16 @@
 layout: project
 type: project
 image: img/orchestra-thumbnail.png
-title: "A Bittersweet Invitation"
+title: "Bittersweet Invitation"
 date: 2020
 published: true
 labels:
   - Music
   - Orchestra
-summary: "An Invitation to perform at Carnegie Hall that could have happened."
+summary: "An performance at Carnegie Hall that could have happened."
 ---
 
-
 <img class="img-fluid" src="../img/orchestra-pic.jpg">
-
-
 
 "So class, I have some news ... we unfortunately ... were not one of the four schools chosen to perform at Carnegie Hall ... we were INVITED to play at the Carnegie Hall!!!" my teacher excitedly exclaimed.
 
