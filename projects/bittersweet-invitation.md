@@ -8,7 +8,7 @@ published: true
 labels:
   - Music
   - Orchestra
-summary: "An performance at Carnegie Hall that could have happened."
+summary: "A performance at Carnegie Hall that could have happened."
 ---
 
 <img class="img-fluid" src="../img/orchestra-pic.jpg">
