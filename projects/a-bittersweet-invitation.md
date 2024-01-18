@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: img/vacay/vacay-square.png
-title: "A Sad Invitation"
+title: "A Bittersweet Invitation"
 date: 2020
 published: true
 labels:
   - Music
   - Orchestra
-summary: "An Invitation to perform at Carnegie Hall."
+summary: "An Invitation to perform at Carnegie Hall that could have happened."
 ---
 
 "So class, I have some news ... we unfortunately ... were not one of the four schools chosen to perform at Carnegie Hall ... we were INVITED to play at the Carnegie Hall!!!" my teacher excitedly exclaimed.
