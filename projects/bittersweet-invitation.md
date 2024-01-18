@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/orchestra-square.png
+image: img/orchestra-thumbnail.png
 title: "A Bittersweet Invitation"
 date: 2020
 published: true
@@ -24,4 +24,4 @@ So fast forward a couple days, in class, my teacher decides to pull a prank. He 
 
 But sadly, a global setback called Covid-19 happened and the trip was eventually canceled due to obvious health concerns.
 
-This was a very humbling experience. however, I believe that just knowing I was a member of an orchestra invited to Carnegie Hall to perform, is a massive accomplishment in itself.
+This was a very humbling experience. However, I believe that just knowing I was a member of an orchestra invited to Carnegie Hall to perform, is a massive accomplishment in itself.
