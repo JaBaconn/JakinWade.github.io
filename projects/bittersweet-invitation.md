@@ -13,7 +13,7 @@ summary: "A performance at Carnegie Hall that could have happened."
 
 <img class="img-fluid" src="../img/orchestra-pic.jpg">
 
-"So class, I have some news ... we unfortunately ... were not one of the schools chosen to perform at Carnegie Hall ... we were instead ...  PERSONALLY INVITED by Carnegie Hall to perform!!!" my teacher exclaimed excitedly.
+"So class, I have some news ... we unfortunately ... were not one of the schools chosen to perform at Carnegie Hall ... we were instead ...  PERSONALLY INVITED by Carnegie Hall to perform!!!" my music teacher exclaimed excitedly.
 
 It is April of 2020, my sophmore year in high school at Kalani High School. After the annual event "Parade of Orchestras", an event where middle schools and high schools from across Oahu come together at Pearl City Cultural Center and perform their personal selection of songs. It is a non competitive event where each school will get judged and given a grade for their performance. But each school is actually trying to impress scouters from Carnegie Hall who are under-cover in the audience.
 
