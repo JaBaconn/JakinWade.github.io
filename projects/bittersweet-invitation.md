@@ -23,4 +23,5 @@ But sadly, a global setback called Covid-19 happened and the trip was eventually
 
 This was a very humbling experience. However, I believe that just knowing I was a member of an orchestra invited to Carnegie Hall to perform, is a massive accomplishment in itself.
 
-* (Note: This page is still under revision) *
+
+*Note: This page is still under revision*
