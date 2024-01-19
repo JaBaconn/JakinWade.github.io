@@ -2,26 +2,17 @@
 layout: project
 type: project
 image: img/orchestra-thumbnail.png
-title: "Bittersweet Invitation"
+title: "Cellist in School Orchestra"
 date: 2020
 published: true
 labels:
   - Music
   - Orchestra
-summary: "A performance at Carnegie Hall that could have happened."
+summary: ""
 ---
 
 <img class="img-fluid" src="../img/orchestra-pic.jpg">
 
-"So class, I have some news ... we unfortunately ... were not one of the schools chosen to perform at Carnegie Hall ... we were instead ...  PERSONALLY INVITED by Carnegie Hall to perform!!!" my music teacher exclaimed excitedly at the beginning of class in April 2019.
+I was a cellist in my school orchestra for a number of years. Through years of learning and practice, I learned to play with confidence, to be expressive with my instrument, to feel the emotion hidden in the music; and in the process, realizing that I did not need to be afraid of making mistakes. I also improved my ability to multi-tasking. While playing, I had to watch the conductor, stay in tempo with the conductor, make sure I am in tune with my section, listen to the other sections for sound cues, read my sheet music, and have the coordination to do all this while making sure I play the correct notes. Having good teamwork was a must in orchestra. I had to learn from the constructive criticism given to me and be able to give out helpful constructive critisism. I needed to learn how to take instructions from a leader (teacher, senior classmates) and how to give instructions as a leader (to my peers).
 
-It is my sophmore year at Kalani High School. After the "Parade of Orchestras", an annual event where middle schools and high schools from across Oahu come together at Pearl City Cultural Center to perform their personal selection of songs. It is a non competitive event where each school will get judged and given a grade for their performance. But each school is actually trying to impress scouters from Carnegie Hall who are under-cover in the audience.
-
-So fast forward a couple days, my teacher starts the class with solemn tone (imagine some sad music playing) "Class, I have some news ... unfortunately, we were not chosen to perform at the Carnegie Hall ... but class, don't worry ... since ... we were actually INVITED to play at the Carnegie Hall!!" my teacher very excitely exclaimed. It is one thing to be chosen as one of the schools to play at the Carnegie Hall. But a completely different thing to have the orchestra personally invited by Carnegie Hall to perform on their stage.
-
-But sadly, a global setback called Covid-19 happened and the trip was eventually canceled due to obvious health concerns.
-
-This was a very humbling experience. However, I believe that just knowing I was a member of an orchestra invited to Carnegie Hall to perform, is a massive accomplishment in itself.
-
-
-*Note: This page is still under revision*
+Throughout the years, my high school orchestra performed regularly in our own school, inter-school concerts, anuual events, festive performances in public places and then in 2019 we got invited to perform at Carnegie Hall, New York in April 2021. Unfortunately, due to the Covid epidemic, the concert was eventually cancelled. But in this, I learned another valuable lesson. There are times when our goal seems within our grasp, then suddenly, something happens that is out of our control and it is being taken away. I learned to dust myself off of disappointment and strive towards my next goal.
