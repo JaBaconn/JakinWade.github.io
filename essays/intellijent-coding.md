@@ -7,6 +7,7 @@ date: 2024-02-08
 published: true
 labels:
   - JavaScript
+summary: Tools to help you code 'IntelliJ'ently
 ---
 
 ## Are Coding Standards Useful?
