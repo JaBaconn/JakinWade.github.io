@@ -6,7 +6,9 @@ title: "UI Frameworks"
 date: 2024-02-22
 published: true
 labels:
-  - JavaScript, CSS, BootStrap
+  - JavaScript
+  - CSS
+  - BootStrap
 summary: My First Experience with UI frameworks
 ---
 
