@@ -32,7 +32,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science: Security Science (expected Spring, 2026)",
       "studyType": "B.S.",
-      "startDate": "2022-09-01",
+      "startDate": "2022-08-22",
       "endDate": "Present",
       "courses": [
       ]
@@ -41,12 +41,12 @@
   "work": [
     {
       "company": "Raising Cane's Chicken Fingers",
-      "position": "Crew-member",
-      "website": "",
+      "position": "Crewmember",
+      "website": "https://www.raisingcanes.com/home/",
       "startDate": "2022-08-27",
       "endDate": "Present",
       "highlights": [
-        "Make sure that customers get to enjot the perfect Box combo"
+        "Ensure that customers get to enjoy the perfect Box combo."
       ]
     }
   ],
