@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "My Use f AI in ICS 314"
+title: "My Use of AI in ICS 314"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-07
 published: true
