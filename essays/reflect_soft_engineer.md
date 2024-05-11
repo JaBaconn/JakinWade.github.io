@@ -16,7 +16,7 @@ summary: Some things about Software Engineering I learned in my semester of ICS 
 ### What are Design Patterns?
 Design patterns are a fundamental part of software development, as they provide typical solutions to commonly recurring problems in software design. Rather than providing specific pieces of software, design patterns are merely concepts that can be used to handle recurring themes in an optimized way.
 
-_- <a href="www.patterns.dev/vanilla">www.patterns.dev/vanilla</a>_
+_- <a href="https://www.patterns.dev/vanilla">www.patterns.dev/vanilla</a>_
 
 I’ve learned that design patterns are everywhere and not just limited to software engineering, we just don’t realize it sometimes.
 
