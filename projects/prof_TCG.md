@@ -14,6 +14,6 @@ summary: ""
 
 Many students experience a sense of disconnection from their professors, whether it be due to large class sizes or even just a lack of personal interaction in small classes. Moreover, many are interested in learning more about their professors and have questions about what they are researching and the projects they are working on. However, it can be difficult to network and make connections with professors and ask those questions directly. 
 
-So, my team and I wanted to incorporate the popularity of trading card games with our local community to help students build connections with each other and their professors. We have created a website where you can get trading cards of your professors, higher rarities can be the professors outside of their jobs (e.g-at the beach). You can trade them with other people, possibly making new friends in the process.
+So, my team and I wanted to incorporate the popularity of trading card games with our local community to help students build connections with each other and their professors. We have created a website where you can collect trading cards of your professors, and possibly get higher rarity cards of your professors outside of their jobs (e.g: at the beach). You can also trade them with other people, and make new friends in the process.
 
 _More details <a href="https://academic-flow.github.io">here</a>_
